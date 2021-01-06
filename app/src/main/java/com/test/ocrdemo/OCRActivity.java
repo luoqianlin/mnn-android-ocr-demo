@@ -10,9 +10,6 @@ import android.graphics.Rect;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.HandlerThread;
-
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.util.Log;
 import android.view.View;
 import android.view.WindowManager;
@@ -20,11 +17,11 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.test.ocrdemo.R;
-
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 /**
  * 1、界面中有检测和识别按钮，点击检测按钮会检测出图片中的文本区域，裁剪为图片并缓存起来<br/>
@@ -133,6 +130,7 @@ public class OCRActivity extends AppCompatActivity {
                 doReg();
             }
         });
+        imageView.setImageBitmap(mBitmap);
     }
 
     private void doDetect() {
