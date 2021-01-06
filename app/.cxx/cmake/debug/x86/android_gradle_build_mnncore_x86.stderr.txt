@@ -1,1 +1,0 @@
-ninja: error: '../../../../libs/x86/libMNN.so', needed by '../../../../build/intermediates/cmake/debug/obj/x86/libmnncore.so', missing and no known rule to make it

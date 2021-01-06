@@ -1,3 +1,0 @@
-/home/sansi/workspace/mnnocrdemo/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir
-/home/sansi/workspace/mnnocrdemo/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
-/home/sansi/workspace/mnnocrdemo/app/.cxx/cmake/release/armeabi-v7a/CMakeFiles/mnncore.dir

@@ -1,6 +1,0 @@
-# ninja log v5
-8	278	1609901223	CMakeFiles/mnncore.dir/src/main/jni/mnnportraitnative.cpp.o	97755971d55ed3c
-4	411	1609901223	CMakeFiles/mnncore.dir/src/main/jni/clipper_java.cpp.o	fada48efdac262c0
-8	736	1609901223	CMakeFiles/mnncore.dir/src/main/jni/mnnnetnative.cpp.o	3ef965c0a79769d0
-0	1102	1609901224	CMakeFiles/mnncore.dir/src/main/jni/clipper.cpp.o	241380d50bb59c20
-1102	1128	1609901224	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libmnncore.so	dc45a68ff3489e2b
