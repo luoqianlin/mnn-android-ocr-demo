@@ -1,0 +1,1 @@
+ninja: Entering directory `/home/sansi/MNN/demo/android/app/.cxx/cmake/debug/x86'

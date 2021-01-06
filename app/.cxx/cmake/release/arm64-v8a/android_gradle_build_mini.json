@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "/home/sansi/MNN/demo/android/app/CMakeLists.txt",
+    "/home/sansi/Android/Sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/home/sansi/Android/Sdk/ndk/21.1.6352462/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/home/sansi/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/sansi/MNN/demo/android/app/.cxx/cmake/release/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/home/sansi/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/home/sansi/MNN/demo/android/app/.cxx/cmake/release/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "mnncore-Release-arm64-v8a": {
+      "artifactName": "mnncore",
+      "buildCommand": "/home/sansi/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/home/sansi/MNN/demo/android/app/.cxx/cmake/release/arm64-v8a\" mnncore",
+      "abi": "arm64-v8a",
+      "output": "/home/sansi/MNN/demo/android/app/build/intermediates/cmake/release/obj/arm64-v8a/libmnncore.so",
+      "runtimeFiles": [
+        "/home/sansi/MNN/demo/android/app/libs/arm64-v8a/libMNN.so"
+      ]
+    }
+  }
+}

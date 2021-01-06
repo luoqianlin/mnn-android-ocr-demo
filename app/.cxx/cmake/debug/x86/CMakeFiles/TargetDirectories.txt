@@ -1,0 +1,3 @@
+/home/sansi/MNN/demo/android/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/home/sansi/MNN/demo/android/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/home/sansi/MNN/demo/android/app/.cxx/cmake/debug/x86/CMakeFiles/mnncore.dir
